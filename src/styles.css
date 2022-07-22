@@ -61,3 +61,10 @@ i {
 .container {
   min-width: 1300px;
 }
+.link {
+  text-decoration: none;
+}
+.linkText {
+  margin-top: 18px;
+  margin-left: 0px;
+}
