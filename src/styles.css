@@ -6,7 +6,7 @@ form {
   margin-bottom: 30px;
 }
 .data {
-  margin-top: -30px;
+  margin-top: 20px;
   margin-bottom: 55px;
 }
 #text {
@@ -17,7 +17,7 @@ a {
 }
 #temperature {
   font-size: 100px;
-  margin-top: -22%;
+  margin-top: 6%;
 }
 .possition {
   position: relative;
@@ -58,6 +58,6 @@ i {
 .friday {
   margin-left: 123px;
 }
-.celsius {
-  margin-left: 594px;
+.container {
+  min-width: 1300px;
 }
